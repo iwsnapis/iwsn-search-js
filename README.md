@@ -1,1 +1,1 @@
-# iwsn-search-js
+# IWSN Search JavaScript Client Libraries for Web
