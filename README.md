@@ -1,1 +1,1 @@
-# IWSN Search JavaScript Client Libraries for Web
+# IWSN Search JavaScript Client Libraries
